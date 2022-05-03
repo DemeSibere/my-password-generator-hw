@@ -24,7 +24,7 @@ uppercase/lowercase, numeric and special characters. After all prompts are answe
 the answers will be validated and then password is generated that matches the selected 
 criteria. When password is generated, it will be displayed written to the page.  
 
-```
+``
 
 
 ## Mock-Up
@@ -33,4 +33,4 @@ criteria. When password is generated, it will be displayed written to the page.
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/hw%20demo.gif)
+![The Password Generator application displays a red button to "Generate Password".](./Assets/hw-demo.gif)
